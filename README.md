@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Me](C:\Users\prajp\Downloads\demo.gif)
+![Me](demo.gif)
 
 <!---
 piyushrana31/piyushrana31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
